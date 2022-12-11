@@ -1,0 +1,6 @@
+recognizer:
+  model_dir: "D:/Python/femBot/data/model"
+  images_dir: "D:/Python/femBot/data/images"
+
+generator:
+  phrases_dir: "D:/Python/femBot/data/phrases"

@@ -1,0 +1,13 @@
+venv
+.secrets.*
+__pycache__
+*.pyc
+
+# PyCharm
+.idea
+*.iml
+*.iws
+*.ipr
+
+# VSCode
+.vscode

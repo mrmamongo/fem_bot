@@ -1,0 +1,6 @@
+aiogram==3.0.0b3
+opencv-python==4.2.0.32
+dynaconf~=3.1.11
+loguru~=0.6.0
+markovify~=0.9.4
+aiofiles==22.1.0
